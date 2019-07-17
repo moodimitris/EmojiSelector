@@ -183,9 +183,6 @@
 🧚 => 🧚, fairy, Oberon, Puck, Titania
 🧚‍♀ => 🧚‍♀, Titania, woman fairy
 🧚‍♂ => 🧚‍♂, man fairy, Oberon, Puck
-🧛 => 🧛, Dracula, undead, vampire
-🧛‍♀ => 🧛‍♀, undead, woman vampire
-🧛‍♂ => 🧛‍♂, Dracula, man vampire, undead
 🧜 => 🧜, mermaid, merman, merperson, merwoman
 🧜‍♀ => 🧜‍♀, mermaid, merwoman
 🧜‍♂ => 🧜‍♂, merman, Triton
