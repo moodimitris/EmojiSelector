@@ -1,8 +1,3 @@
-🏻 => 🏻, light skin tone, skin tone, type 1–2
-🏼 => 🏼, medium-light skin tone, skin tone, type 3
-🏽 => 🏽, medium skin tone, skin tone, type 4
-🏾 => 🏾, medium-dark skin tone, skin tone, type 5
-🏿 => 🏿, dark skin tone, skin tone, type 6
 😀 => 😀, face, grin, grinning face
 😁 => 😁, beaming face with smiling eyes, eye, face, grin, smile
 😂 => 😂, face, face with tears of joy, joy, laugh, tear
