@@ -265,7 +265,6 @@
 🤺 => 🤺, fencer, fencing, person fencing, sword
 🏇 => 🏇, horse, jockey, racehorse, racing
 ⛷ => ⛷, ski, skier, snow
-🏂 => 🏂, ski, snow, snowboard, snowboarder
 🏌 => 🏌, ball, golf, person golfing
 🏌‍♂ => 🏌‍♂, golf, man, man golfing
 🏌‍♀ => 🏌‍♀, golf, woman, woman golfing
