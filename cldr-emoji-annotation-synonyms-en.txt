@@ -260,9 +260,6 @@
 🏌 => 🏌, ball, golf, person golfing
 🏌‍♂ => 🏌‍♂, golf, man, man golfing
 🏌‍♀ => 🏌‍♀, golf, woman, woman golfing
-🏄 => 🏄, person surfing, surfing
-🏄‍♂ => 🏄‍♂, man, surfing
-🏄‍♀ => 🏄‍♀, surfing, woman
 🚣 => 🚣, boat, person rowing boat, rowboat
 🚣‍♂ => 🚣‍♂, boat, man, man rowing boat, rowboat
 🚣‍♀ => 🚣‍♀, boat, rowboat, woman, woman rowing boat
