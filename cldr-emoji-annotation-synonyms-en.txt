@@ -260,12 +260,6 @@
 🏌 => 🏌, ball, golf, person golfing
 🏌‍♂ => 🏌‍♂, golf, man, man golfing
 🏌‍♀ => 🏌‍♀, golf, woman, woman golfing
-🚣 => 🚣, boat, person rowing boat, rowboat
-🚣‍♂ => 🚣‍♂, boat, man, man rowing boat, rowboat
-🚣‍♀ => 🚣‍♀, boat, rowboat, woman, woman rowing boat
-🏊 => 🏊, person swimming, swim
-🏊‍♂ => 🏊‍♂, man, man swimming, swim
-🏊‍♀ => 🏊‍♀, swim, woman, woman swimming
 ⛹ => ⛹, ball, person bouncing ball
 ⛹‍♂ => ⛹‍♂, ball, man, man bouncing ball
 ⛹‍♀ => ⛹‍♀, ball, woman, woman bouncing ball
