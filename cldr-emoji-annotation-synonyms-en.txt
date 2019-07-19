@@ -2004,11 +2004,6 @@
 👆🏽 => 👆🏽, backhand, backhand index pointing up, finger, hand, index, point, up, medium skin tone
 👆🏾 => 👆🏾, backhand, backhand index pointing up, finger, hand, index, point, up, medium-dark skin tone
 👆🏿 => 👆🏿, backhand, backhand index pointing up, finger, hand, index, point, up, dark skin tone
-🖕🏻 => 🖕🏻, finger, hand, middle finger, light skin tone
-🖕🏼 => 🖕🏼, finger, hand, middle finger, medium-light skin tone
-🖕🏽 => 🖕🏽, finger, hand, middle finger, medium skin tone
-🖕🏾 => 🖕🏾, finger, hand, middle finger, medium-dark skin tone
-🖕🏿 => 🖕🏿, finger, hand, middle finger, dark skin tone
 👇🏻 => 👇🏻, backhand, backhand index pointing down, down, finger, hand, index, point, light skin tone
 👇🏼 => 👇🏼, backhand, backhand index pointing down, down, finger, hand, index, point, medium-light skin tone
 👇🏽 => 👇🏽, backhand, backhand index pointing down, down, finger, hand, index, point, medium skin tone
