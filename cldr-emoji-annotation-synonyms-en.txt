@@ -301,7 +301,6 @@
 👉 => 👉, backhand, backhand index pointing right, finger, hand, index, point
 ☝ => ☝, finger, hand, index, index pointing up, point, up
 👆 => 👆, backhand, backhand index pointing up, finger, hand, index, point, up
-🖕 => 🖕, finger, hand, middle finger
 👇 => 👇, backhand, backhand index pointing down, down, finger, hand, index, point
 ✌ => ✌, hand, v, victory
 🤞 => 🤞, cross, crossed fingers, finger, hand, luck
