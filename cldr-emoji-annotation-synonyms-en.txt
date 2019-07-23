@@ -743,7 +743,7 @@
 🌂 => 🌂, closed umbrella, clothing, rain, umbrella
 ☂ => ☂, clothing, rain, umbrella
 ☔ => ☔, clothing, drop, rain, umbrella, umbrella with rain drops
-⛱ => ⛱, rain, sun, umbrella, umbrella on ground
+⛱ => ⛱, rain, sun, umbrella, umbrella on ground, sand
 ⚡ => ⚡, danger, electric, electricity, high voltage, lightning, voltage, zap
 ❄ => ❄, cold, snow, snowflake
 ☃ => ☃, cold, snow, snowman
