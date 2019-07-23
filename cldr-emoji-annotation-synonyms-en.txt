@@ -459,7 +459,7 @@
 🌱 => 🌱, seedling, young
 🌲 => 🌲, evergreen tree, tree
 🌳 => 🌳, deciduous, shedding, tree
-🌴 => 🌴, palm, tree
+🌴 => 🌴, palm, tree, holidays, vacations
 🌵 => 🌵, cactus, plant
 🌾 => 🌾, ear, grain, rice, sheaf of rice
 🌿 => 🌿, herb, leaf
@@ -517,7 +517,7 @@
 🍳 => 🍳, cooking, egg, frying, pan
 🥘 => 🥘, casserole, food, paella, pan, shallow, shallow pan of food
 🍲 => 🍲, pot, pot of food, stew
-🥣 => 🥣, bowl with spoon, breakfast, cereal, congee
+🥣 => 🥣, bowl with spoon, cereal, congee
 🥗 => 🥗, food, green, salad
 🍿 => 🍿, popcorn
 🥫 => 🥫, can, canned food
@@ -680,9 +680,9 @@
 🛥 => 🛥, boat, motor boat, motorboat
 🚢 => 🚢, boat, passenger, ship
 ✈ => ✈, aeroplane, airplane
-🛩 => 🛩, aeroplane, airplane, small airplane
-🛫 => 🛫, aeroplane, airplane, check-in, departure, departures
-🛬 => 🛬, aeroplane, airplane, airplane arrival, arrivals, arriving, landing
+🛩 => 🛩, aeroplane, airplane, small airplane, flight
+🛫 => 🛫, aeroplane, airplane, check-in, departure, departures, , flight
+🛬 => 🛬, aeroplane, airplane, airplane arrival, arrivals, arriving, landing, , flight
 💺 => 💺, chair, seat
 🚁 => 🚁, helicopter, vehicle
 🚟 => 🚟, railway, suspension
@@ -760,7 +760,7 @@
 🎟 => 🎟, admission, admission tickets, ticket
 🎫 => 🎫, admission, ticket
 🎖 => 🎖, celebration, medal, military
-🏆 => 🏆, prize, trophy
+🏆 => 🏆, prize, trophy, world cup
 🏅 => 🏅, medal
 🥇 => 🥇, 1st place medal, first, gold, medal
 🥈 => 🥈, 2nd place medal, medal, second, silver
