@@ -565,8 +565,8 @@
 🍼 => 🍼, baby, bottle, drink, milk
 🥛 => 🥛, drink, glass, glass of milk, milk
 ☕ => ☕, beverage, coffee, drink, hot, steaming, tea
-🍵 => 🍵, beverage, cup, drink, tea, teacup, teacup without handle
-🍶 => 🍶, bar, beverage, bottle, cup, drink, sake
+🍵 => 🍵, beverage, tea, teacup, teacup without handle
+🍶 => 🍶, bar, beverage, bottle, sake
 🍾 => 🍾, bar, bottle, bottle with popping cork, cork, drink, popping
 🍷 => 🍷, bar, beverage, drink, glass, wine
 🍸 => 🍸, bar, cocktail, drink, glass
@@ -575,7 +575,7 @@
 🍻 => 🍻, bar, beer, clink, clinking beer mugs, drink, mug
 🥂 => 🥂, celebrate, clink, clinking glasses, drink, glass
 🥃 => 🥃, glass, liquor, shot, tumbler, whisky
-🥤 => 🥤, cup with straw, juice, soda
+🥤 => 🥤, juice, soda
 🥢 => 🥢, chopsticks, hashi
 🍽 => 🍽, cooking, fork, fork and knife with plate, knife, plate
 🍴 => 🍴, cooking, cutlery, fork, fork and knife, knife
