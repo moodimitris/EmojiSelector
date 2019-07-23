@@ -810,7 +810,7 @@
 🎫 => 🎫, admission, ticket
 🎖 => 🎖, celebration, medal, military
 🏆 => 🏆, prize, trophy
-🏅 => 🏅, medal, sports medal
+🏅 => 🏅, medal
 🥇 => 🥇, 1st place medal, first, gold, medal
 🥈 => 🥈, 2nd place medal, medal, second, silver
 🥉 => 🥉, 3rd place medal, bronze, medal, third
