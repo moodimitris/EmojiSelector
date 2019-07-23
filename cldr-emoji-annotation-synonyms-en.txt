@@ -769,7 +769,7 @@
 ⚾ => ⚾, baseball
 🏀 => 🏀, basketball, hoop
 🏐 => 🏐, game, volleyball
-🏈 => 🏈, american, ball, football
+🏈 => 🏈, american, ball, gridiron
 🏉 => 🏉, ball, rugby
 🎾 => 🎾, racquet, tennis
 🎳 => 🎳, bowling, game
