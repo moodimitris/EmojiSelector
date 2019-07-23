@@ -699,7 +699,7 @@
 🚖 => 🚖, oncoming, taxi
 🚗 => 🚗, automobile, car
 🚘 => 🚘, automobile, car, oncoming
-🚙 => 🚙, recreational, sport utility, sport utility vehicle
+🚙 => 🚙, recreational
 🚚 => 🚚, delivery, truck
 🚛 => 🚛, articulated lorry, lorry, semi, truck
 🚜 => 🚜, tractor, vehicle
@@ -737,8 +737,8 @@
 🚀 => 🚀, rocket, space
 🛸 => 🛸, flying saucer, UFO
 🛎 => 🛎, bell, bellhop, hotel
-⌛ => ⌛, hourglass done, sand, timer
-⏳ => ⏳, hourglass, hourglass not done, sand, timer
+⌛ => ⌛, hourglass, timer
+⏳ => ⏳, hourglass, timer
 ⌚ => ⌚, clock, watch
 ⏰ => ⏰, alarm, clock
 ⏱ => ⏱, clock, stopwatch
