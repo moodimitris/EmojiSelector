@@ -421,7 +421,7 @@
 🦌 => 🦌, deer
 🐮 => 🐮, cow, face
 🐂 => 🐂, bull, ox, Taurus, zodiac
-🐃 => 🐃, buffalo, water
+🐃 => 🐃, buffalo
 🐄 => 🐄, cow
 🐷 => 🐷, face, pig
 🐖 => 🐖, pig, sow
