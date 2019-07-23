@@ -960,7 +960,7 @@
 🛏 => 🛏, bed, hotel, sleep
 🛋 => 🛋, couch, couch and lamp, hotel, lamp
 🚽 => 🚽, toilet
-🚿 => 🚿, shower, water
+🚿 => 🚿, shower
 🛁 => 🛁, bath, bathtub
 🛒 => 🛒, cart, shopping, trolley
 🚬 => 🚬, cigarette, smoking
