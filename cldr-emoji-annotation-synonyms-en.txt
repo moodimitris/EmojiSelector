@@ -801,7 +801,7 @@
 🛷 => 🛷, sled, sledge, sleigh
 🥌 => 🥌, curling stone, game, rock
 🎯 => 🎯, bull, bullseye, dart, direct hit, eye, game, hit, target
-🎱 => 🎱, 8, ball, billiard, eight, game, pool 8 ball
+🎱 => 🎱, 8, ball, billiard, eight, game
 🔮 => 🔮, ball, crystal, fairy tale, fantasy, fortune, tool
 🎮 => 🎮, controller, game, video game
 🕹 => 🕹, game, joystick, video game
