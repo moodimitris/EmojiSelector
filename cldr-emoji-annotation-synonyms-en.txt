@@ -844,10 +844,6 @@
 🕹 => 🕹, game, joystick, video game
 🎰 => 🎰, game, slot, slot machine
 🎲 => 🎲, dice, die, game
-♠ => ♠, card, game, spade suit
-♥ => ♥, card, game, heart suit
-♦ => ♦, card, diamond suit, game
-♣ => ♣, card, club suit, game
 🃏 => 🃏, card, game, joker, wildcard
 🀄 => 🀄, game, mahjong, mahjong red dragon, red
 🎴 => 🎴, card, flower, flower playing cards, game, Japanese, playing
