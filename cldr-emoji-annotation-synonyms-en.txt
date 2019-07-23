@@ -1391,11 +1391,11 @@
 🤸🏽 => 🤸🏽, cartwheel, gymnastics, person cartwheeling, medium skin tone
 🤸🏾 => 🤸🏾, cartwheel, gymnastics, person cartwheeling, medium-dark skin tone
 🤸🏿 => 🤸🏿, cartwheel, gymnastics, person cartwheeling, dark skin tone
-🤽🏻 => 🤽🏻, person playing water polo, polo, light skin tone
-🤽🏼 => 🤽🏼, person playing water polo, polo, medium-light skin tone
-🤽🏽 => 🤽🏽, person playing water polo, polo, medium skin tone
-🤽🏾 => 🤽🏾, person playing water polo, polo, medium-dark skin tone
-🤽🏿 => 🤽🏿, person playing water polo, polo, dark skin tone
+🤽🏻 => 🤽🏻, person playing polo, polo, light skin tone
+🤽🏼 => 🤽🏼, person playing polo, polo, medium-light skin tone
+🤽🏽 => 🤽🏽, person playing polo, polo, medium skin tone
+🤽🏾 => 🤽🏾, person playing polo, polo, medium-dark skin tone
+🤽🏿 => 🤽🏿, person playing polo, polo, dark skin tone
 🤾🏻 => 🤾🏻, ball, handball, person playing handball, light skin tone
 🤾🏼 => 🤾🏼, ball, handball, person playing handball, medium-light skin tone
 🤾🏽 => 🤾🏽, ball, handball, person playing handball, medium skin tone
