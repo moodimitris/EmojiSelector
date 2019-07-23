@@ -569,7 +569,7 @@
 🍱 => 🍱, bento, box
 🍘 => 🍘, cracker, rice
 🍙 => 🍙, ball, Japanese, rice
-🍚 => 🍚, cooked, rice
+🍚 => 🍚, rice
 🍛 => 🍛, curry, rice
 🍜 => 🍜, bowl, noodle, ramen, steaming
 🍝 => 🍝, pasta, spaghetti
