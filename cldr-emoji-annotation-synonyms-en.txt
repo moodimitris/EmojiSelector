@@ -701,7 +701,7 @@
 🚘 => 🚘, automobile, car, oncoming
 🚙 => 🚙, recreational
 🚚 => 🚚, delivery, truck
-🚛 => 🚛, articulated lorry, lorry, semi, truck
+🚛 => 🚛, articulated lorry, lorry, truck
 🚜 => 🚜, tractor, vehicle
 🚲 => 🚲, bicycle, bike
 🛴 => 🛴, kick, scooter
