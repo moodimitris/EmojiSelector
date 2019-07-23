@@ -770,7 +770,7 @@
 🏀 => 🏀, basketball, hoop
 🏐 => 🏐, game, volleyball
 🏈 => 🏈, american, ball, football
-🏉 => 🏉, ball, football, rugby
+🏉 => 🏉, ball, rugby
 🎾 => 🎾, racquet, tennis
 🎳 => 🎳, bowling, game
 🏏 => 🏏, bat, cricket game, game
