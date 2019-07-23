@@ -574,7 +574,7 @@
 🍺 => 🍺, bar, beer, drink, mug
 🍻 => 🍻, bar, beer, clink, clinking beer mugs, drink, mug
 🥂 => 🥂, celebrate, clink, clinking glasses, drink, glass
-🥃 => 🥃, glass, liquor, shot, tumbler, whisky
+🥃 => 🥃, liquor, shot, tumbler, whisky
 🥤 => 🥤, juice, soda
 🥢 => 🥢, chopsticks, hashi
 🍽 => 🍽, cooking, fork, fork and knife with plate, knife, plate
