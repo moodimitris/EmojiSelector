@@ -981,11 +981,6 @@
 👶🏽 => 👶🏽, baby, young, medium skin tone
 👶🏾 => 👶🏾, baby, young, medium-dark skin tone
 👶🏿 => 👶🏿, baby, young, dark skin tone
-🧒🏻 => 🧒🏻, child, gender-neutral, young, light skin tone
-🧒🏼 => 🧒🏼, child, gender-neutral, young, medium-light skin tone
-🧒🏽 => 🧒🏽, child, gender-neutral, young, medium skin tone
-🧒🏾 => 🧒🏾, child, gender-neutral, young, medium-dark skin tone
-🧒🏿 => 🧒🏿, child, gender-neutral, young, dark skin tone
 👦🏻 => 👦🏻, boy, young, light skin tone
 👦🏼 => 👦🏼, boy, young, medium-light skin tone
 👦🏽 => 👦🏽, boy, young, medium skin tone
@@ -996,11 +991,6 @@
 👧🏽 => 👧🏽, Virgo, girl, young, zodiac, medium skin tone
 👧🏾 => 👧🏾, Virgo, girl, young, zodiac, medium-dark skin tone
 👧🏿 => 👧🏿, Virgo, girl, young, zodiac, dark skin tone
-🧑🏻 => 🧑🏻, adult, gender-neutral, light skin tone
-🧑🏼 => 🧑🏼, adult, gender-neutral, medium-light skin tone
-🧑🏽 => 🧑🏽, adult, gender-neutral, medium skin tone
-🧑🏾 => 🧑🏾, adult, gender-neutral, medium-dark skin tone
-🧑🏿 => 🧑🏿, adult, gender-neutral, dark skin tone
 👨🏻 => 👨🏻, man, light skin tone
 👨🏼 => 👨🏼, man, medium-light skin tone
 👨🏽 => 👨🏽, man, medium skin tone
@@ -1011,11 +1001,6 @@
 👩🏽 => 👩🏽, woman, medium skin tone
 👩🏾 => 👩🏾, woman, medium-dark skin tone
 👩🏿 => 👩🏿, woman, dark skin tone
-🧓🏻 => 🧓🏻, gender-neutral, old, older adult, light skin tone
-🧓🏼 => 🧓🏼, gender-neutral, old, older adult, medium-light skin tone
-🧓🏽 => 🧓🏽, gender-neutral, old, older adult, medium skin tone
-🧓🏾 => 🧓🏾, gender-neutral, old, older adult, medium-dark skin tone
-🧓🏿 => 🧓🏿, gender-neutral, old, older adult, dark skin tone
 👴🏻 => 👴🏻, man, old, light skin tone
 👴🏼 => 👴🏼, man, old, medium-light skin tone
 👴🏽 => 👴🏽, man, old, medium skin tone
