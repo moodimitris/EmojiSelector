@@ -925,7 +925,7 @@
 📏 => 📏, ruler, straight edge, straight ruler
 📐 => 📐, ruler, set, triangle, triangular ruler
 ✂ => ✂, cutting, scissors, tool
-🗃 => 🗃, box, card, file
+🗃 => 🗃, file
 🗄 => 🗄, cabinet, file, filing
 🗑 => 🗑, wastebasket
 🔒 => 🔒, closed, locked
