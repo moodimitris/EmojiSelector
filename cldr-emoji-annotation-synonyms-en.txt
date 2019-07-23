@@ -684,7 +684,7 @@
 🛑 => 🛑, octagonal, sign, stop
 🚧 => 🚧, barrier, construction
 ⚓ => ⚓, anchor, ship, tool
-⛵ => ⛵, boat, resort, sailboat, sea, yacht
+⛵ => ⛵, boat, sailboat, sea, yacht
 🛶 => 🛶, boat, canoe
 🚤 => 🚤, boat, speedboat
 🛳 => 🛳, passenger, ship
