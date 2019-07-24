@@ -861,7 +861,6 @@
 💼 => 💼, briefcase
 📁 => 📁, file, folder
 📅 => 📅, calendar, date
-📇 => 📇, card, index, rolodex
 📈 => 📈, chart, chart increasing, graph, growth, trend, upward
 📉 => 📉, chart, chart decreasing, down, graph, trend
 📊 => 📊, bar, chart, graph
