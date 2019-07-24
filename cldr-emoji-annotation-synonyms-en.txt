@@ -1291,11 +1291,11 @@
 🏇🏽 => 🏇🏽, horse, jockey, racehorse, racing, medium skin tone
 🏇🏾 => 🏇🏾, horse, jockey, racehorse, racing, medium-dark skin tone
 🏇🏿 => 🏇🏿, horse, jockey, racehorse, racing, dark skin tone
-🏂🏻 => 🏂🏻, ski, snow, snowboard, snowboarder, light skin tone
-🏂🏼 => 🏂🏼, ski, snow, snowboard, snowboarder, medium-light skin tone
-🏂🏽 => 🏂🏽, ski, snow, snowboard, snowboarder, medium skin tone
-🏂🏾 => 🏂🏾, ski, snow, snowboard, snowboarder, medium-dark skin tone
-🏂🏿 => 🏂🏿, ski, snow, snowboard, snowboarder, dark skin tone
+🏂🏻 => 🏂🏻, snow, snowboard, snowboarder, light skin tone
+🏂🏼 => 🏂🏼, snow, snowboard, snowboarder, medium-light skin tone
+🏂🏽 => 🏂🏽, snow, snowboard, snowboarder, medium skin tone
+🏂🏾 => 🏂🏾, snow, snowboard, snowboarder, medium-dark skin tone
+🏂🏿 => 🏂🏿, snow, snowboard, snowboarder, dark skin tone
 🏌🏻 => 🏌🏻, ball, golf, person golfing, light skin tone
 🏌🏼 => 🏌🏼, ball, golf, person golfing, medium-light skin tone
 🏌🏽 => 🏌🏽, ball, golf, person golfing, medium skin tone
