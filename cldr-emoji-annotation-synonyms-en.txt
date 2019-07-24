@@ -1290,11 +1290,6 @@
 🛌🏽 => 🛌🏽, hotel, person in bed, sleep, medium skin tone
 🛌🏾 => 🛌🏾, hotel, person in bed, sleep, medium-dark skin tone
 🛌🏿 => 🛌🏿, hotel, person in bed, sleep, dark skin tone
-🕴🏻 => 🕴🏻, business, man, man in suit levitating, suit, light skin tone
-🕴🏼 => 🕴🏼, business, man, man in suit levitating, suit, medium-light skin tone
-🕴🏽 => 🕴🏽, business, man, man in suit levitating, suit, medium skin tone
-🕴🏾 => 🕴🏾, business, man, man in suit levitating, suit, medium-dark skin tone
-🕴🏿 => 🕴🏿, business, man, man in suit levitating, suit, dark skin tone
 🏇🏻 => 🏇🏻, horse, jockey, racehorse, racing, light skin tone
 🏇🏼 => 🏇🏼, horse, jockey, racehorse, racing, medium-light skin tone
 🏇🏽 => 🏇🏽, horse, jockey, racehorse, racing, medium skin tone
