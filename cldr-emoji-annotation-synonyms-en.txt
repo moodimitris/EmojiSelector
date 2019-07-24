@@ -927,7 +927,7 @@
 💯 => 💯, 100, full, hundred, hundred points, score
 🏁 => 🏁, checkered, chequered, chequered flag, racing
 🚩 => 🚩, post, triangular flag
-🎌 => 🎌, celebration, cross, crossed, crossed flags, Japanese
+🎌 => 🎌, celebration, crossed flags, Japanese
 🏴 => 🏴, black flag, waving
 🏳 => 🏳, waving, white flag
 🏳‍🌈 => 🏳‍🌈, rainbow, rainbow flag
