@@ -710,8 +710,6 @@
 🎍 => 🎍, bamboo, celebration, Japanese, pine, pine decoration
 🎎 => 🎎, celebration, doll, festival, Japanese, Japanese dolls
 🎏 => 🎏, carp, celebration, streamer
-🎐 => 🎐, bell, celebration, chime, wind
-🎑 => 🎑, celebration, ceremony, moon
 🎀 => 🎀, celebration, ribbon
 🎁 => 🎁, gift, present
 🎗 => 🎗, celebration, reminder, ribbon
