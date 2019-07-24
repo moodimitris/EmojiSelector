@@ -58,7 +58,7 @@
 😧 => 😧, anguished, face
 😨 => 😨, face, fear, fearful, scared
 😩 => 😩, face, tired, weary
-🤯 => 🤯, exploding head, shocked
+🤯 => 🤯, exploding, shocked
 😬 => 😬, face, grimace, grimacing face
 😰 => 😰, anxious face with sweat, blue, cold, face, mouth, open, rushed, sweat
 😱 => 😱, face, face screaming in fear, fear, fearful, munch, scared, scream
@@ -182,7 +182,7 @@
 🛀 => 🛀, bath, bathtub, person taking bath
 🛌 => 🛌, hotel, person in bed, sleep
 🕴 => 🕴, business, man, man in suit levitating, suit
-🗣 => 🗣, face, head, silhouette, speak, speaking
+🗣 => 🗣, face, silhouette, speak, speaking
 👤 => 👤, bust, bust in silhouette, silhouette
 👥 => 👥, bust, busts in silhouette, silhouette
 🤺 => 🤺, fencer, fencing, person fencing, sword
