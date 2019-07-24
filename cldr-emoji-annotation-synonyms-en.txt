@@ -753,8 +753,6 @@
 🕹 => 🕹, game, joystick, video game
 🎰 => 🎰, game, slot, slot machine
 🎲 => 🎲, dice, die, game
-🃏 => 🃏, card, game, joker, wildcard
-🀄 => 🀄, game, mahjong, mahjong red dragon, red
 🎭 => 🎭, art, mask, performing, performing arts, theater, theatre
 🖼 => 🖼, art, frame, framed picture, museum, painting, picture
 🎨 => 🎨, art, artist palette, museum, painting, palette
