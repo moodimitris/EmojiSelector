@@ -513,8 +513,7 @@
 🍬 => 🍬, candy, dessert, sweet
 🍭 => 🍭, candy, dessert, lollipop, sweet
 🍮 => 🍮, custard, dessert, pudding, sweet
-🍯 => 🍯, honey, honeypot, pot, sweet
-🍼 => 🍼, baby, bottle, drink, milk
+🍼 => 🍼, baby, bottle, milk
 🥛 => 🥛, drink, glass, glass of milk, milk
 ☕ => ☕, beverage, coffee, drink, hot, steaming, tea
 🍵 => 🍵, beverage, tea, teacup, teacup without handle
@@ -532,8 +531,7 @@
 🍽 => 🍽, cooking, fork, fork and knife with plate, knife, plate
 🍴 => 🍴, cooking, cutlery, fork, fork and knife, knife
 🥄 => 🥄, spoon, tableware
-🔪 => 🔪, cooking, hocho, kitchen knife, knife, tool, weapon
-🏺 => 🏺, amphora, Aquarius, cooking, drink, jug, tool, weapon, zodiac
+🔪 => 🔪, cooking, hocho, kitchen knife, knife
 🌍 => 🌍, Africa, earth, Europe, globe, globe showing Europe-Africa, world
 🌎 => 🌎, Americas, earth, globe, globe showing Americas, world
 🌏 => 🌏, Asia, Australia, earth, globe, globe showing Asia-Australia, world
