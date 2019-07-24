@@ -778,10 +778,9 @@
 🥁 => 🥁, drum, drumsticks, music
 📱 => 📱, cell, mobile, phone, telephone
 📲 => 📲, arrow, call, cell, mobile, mobile phone with arrow, phone, receive, telephone
-☎ => ☎, phone, telephone
 📞 => 📞, phone, receiver, telephone
 📟 => 📟, pager
-📠 => 📠, fax, fax machine
+📠 => 📠, fax
 🔋 => 🔋, battery
 🔌 => 🔌, electric, electricity, plug
 💻 => 💻, computer, laptop computer, pc, personal
