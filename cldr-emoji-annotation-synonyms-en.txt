@@ -639,8 +639,6 @@
 🚢 => 🚢, boat, passenger, ship
 ✈ => ✈, aeroplane, airplane
 🛩 => 🛩, aeroplane, airplane, small airplane, flight
-🛫 => 🛫, aeroplane, airplane, check-in, departure, departures, , flight
-🛬 => 🛬, aeroplane, airplane, airplane arrival, arrivals, arriving, landing, , flight
 💺 => 💺, chair, seat
 🚁 => 🚁, helicopter, vehicle
 🚟 => 🚟, railway, suspension
