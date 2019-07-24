@@ -1325,11 +1325,6 @@
 🏊🏽 => 🏊🏽, person swimming, swim, medium skin tone
 🏊🏾 => 🏊🏾, person swimming, swim, medium-dark skin tone
 🏊🏿 => 🏊🏿, person swimming, swim, dark skin tone
-⛹🏻 => ⛹🏻, ball, person bouncing ball, light skin tone
-⛹🏼 => ⛹🏼, ball, person bouncing ball, medium-light skin tone
-⛹🏽 => ⛹🏽, ball, person bouncing ball, medium skin tone
-⛹🏾 => ⛹🏾, ball, person bouncing ball, medium-dark skin tone
-⛹🏿 => ⛹🏿, ball, person bouncing ball, dark skin tone
 🏋🏻 => 🏋🏻, lifter, person lifting weights, weight, light skin tone
 🏋🏼 => 🏋🏼, lifter, person lifting weights, weight, medium-light skin tone
 🏋🏽 => 🏋🏽, lifter, person lifting weights, weight, medium skin tone
