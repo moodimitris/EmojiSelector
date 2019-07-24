@@ -380,7 +380,7 @@
 🐉 => 🐉, dragon, fairy tale
 🦕 => 🦕, brachiosaurus, brontosaurus, diplodocus, sauropod
 🦖 => 🦖, T-Rex, Tyrannosaurus Rex
-🐳 => 🐳, face, spouting, whale
+🐳 => 🐳, whale
 🐋 => 🐋, whale
 🐬 => 🐬, dolphin, flipper
 🐟 => 🐟, fish, Pisces, zodiac
