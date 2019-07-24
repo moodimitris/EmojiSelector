@@ -759,7 +759,6 @@
 🎲 => 🎲, dice, die, game
 🃏 => 🃏, card, game, joker, wildcard
 🀄 => 🀄, game, mahjong, mahjong red dragon, red
-🎴 => 🎴, flower playing cards
 🎭 => 🎭, art, mask, performing, performing arts, theater, theatre
 🖼 => 🖼, art, frame, framed picture, museum, painting, picture
 🎨 => 🎨, art, artist palette, museum, painting, palette
@@ -776,8 +775,6 @@
 🎵 => 🎵, music, musical note, note
 🎶 => 🎶, music, musical notes, note, notes
 🎙 => 🎙, mic, microphone, music, studio
-🎚 => 🎚, level, music, slider
-🎛 => 🎛, control, knobs, music
 🎤 => 🎤, karaoke, mic, microphone
 🎧 => 🎧, earbud, headphone
 📻 => 📻, radio, video
