@@ -713,7 +713,7 @@
 🎐 => 🎐, bell, celebration, chime, wind
 🎑 => 🎑, celebration, ceremony, moon, moon viewing ceremony
 🎀 => 🎀, celebration, ribbon
-🎁 => 🎁, box, celebration, gift, present, wrapped
+🎁 => 🎁, gift, present
 🎗 => 🎗, celebration, reminder, ribbon
 🎟 => 🎟, admission, admission tickets, ticket
 🎫 => 🎫, admission, ticket
