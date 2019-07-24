@@ -652,7 +652,7 @@
 🛎 => 🛎, bell, bellhop, hotel
 ⌛ => ⌛, hourglass, timer
 ⏳ => ⏳, hourglass, timer
-⌚ => ⌚, clock, watch
+⌚ => ⌚, clock, wristwatch
 ⏰ => ⏰, alarm, clock
 ⏱ => ⏱, clock, stopwatch
 ⏲ => ⏲, clock, timer
