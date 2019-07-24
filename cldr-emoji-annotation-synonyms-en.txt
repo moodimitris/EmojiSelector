@@ -420,7 +420,6 @@
 🌻 => 🌻, flower, sun, sunflower
 🌼 => 🌼, blossom, flower
 🌷 => 🌷, flower, tulip
-🌱 => 🌱, seedling, young
 🌲 => 🌲, evergreen tree, tree
 🌳 => 🌳, deciduous, shedding, tree
 🌴 => 🌴, palm, tree, holidays, vacations
