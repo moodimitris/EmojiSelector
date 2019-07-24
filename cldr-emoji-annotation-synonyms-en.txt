@@ -105,7 +105,6 @@
 🙈 => 🙈, evil, forbidden, gesture, monkey, no, not, prohibited, see-no-evil monkey
 🙉 => 🙉, evil, forbidden, gesture, hear-no-evil monkey, monkey, no, not, prohibited
 🙊 => 🙊, evil, forbidden, gesture, monkey, no, not, prohibited, speak-no-evil monkey
-👶 => 👶, baby, young
 👨‍⚕ => 👨‍⚕, doctor, healthcare, man, man health worker, nurse, therapist
 👩‍⚕ => 👩‍⚕, doctor, healthcare, nurse, therapist, woman, woman health worker
 👨‍🎓 => 👨‍🎓, graduate, man, student
@@ -907,11 +906,11 @@
 🏴 => 🏴, black flag, waving
 🏳 => 🏳, waving, white flag
 🏳‍🌈 => 🏳‍🌈, rainbow, rainbow flag
-👶🏻 => 👶🏻, baby, young, light skin tone
-👶🏼 => 👶🏼, baby, young, medium-light skin tone
-👶🏽 => 👶🏽, baby, young, medium skin tone
-👶🏾 => 👶🏾, baby, young, medium-dark skin tone
-👶🏿 => 👶🏿, baby, young, dark skin tone
+👶🏻 => 👶🏻, baby, pampers, light skin tone
+👶🏼 => 👶🏼, baby, pampers, medium-light skin tone
+👶🏽 => 👶🏽, baby, pampers, medium skin tone
+👶🏾 => 👶🏾, baby, pampers, medium-dark skin tone
+👶🏿 => 👶🏿, baby, pampers, dark skin tone
 👴🏻 => 👴🏻, man, old, light skin tone
 👴🏼 => 👴🏼, man, old, medium-light skin tone
 👴🏽 => 👴🏽, man, old, medium skin tone
