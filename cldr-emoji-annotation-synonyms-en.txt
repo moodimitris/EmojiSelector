@@ -862,12 +862,7 @@
 📝 => 📝, memo, pencil
 💼 => 💼, briefcase
 📁 => 📁, file, folder
-📂 => 📂, file, folder, open
-🗂 => 🗂, card, dividers, index
 📅 => 📅, calendar, date
-📆 => 📆, calendar, tear-off calendar
-🗒 => 🗒, note, pad, spiral, spiral notepad
-🗓 => 🗓, calendar, pad, spiral
 📇 => 📇, card, index, rolodex
 📈 => 📈, chart, chart increasing, graph, growth, trend, upward
 📉 => 📉, chart, chart decreasing, down, graph, trend
