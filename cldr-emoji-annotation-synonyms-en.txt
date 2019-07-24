@@ -711,7 +711,7 @@
 🎎 => 🎎, celebration, doll, festival, Japanese, Japanese dolls
 🎏 => 🎏, carp, celebration, streamer
 🎐 => 🎐, bell, celebration, chime, wind
-🎑 => 🎑, celebration, ceremony, moon, moon viewing ceremony
+🎑 => 🎑, celebration, ceremony, moon
 🎀 => 🎀, celebration, ribbon
 🎁 => 🎁, gift, present
 🎗 => 🎗, celebration, reminder, ribbon
