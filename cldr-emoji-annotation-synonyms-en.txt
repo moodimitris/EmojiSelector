@@ -594,13 +594,10 @@
 🚂 => 🚂, engine, locomotive, railway, steam, train
 🚃 => 🚃, car, electric, railway, train, tram, trolleybus
 🚄 => 🚄, high-speed train, railway, shinkansen, speed, train
-🚅 => 🚅, bullet, railway, shinkansen, speed, train
 🚆 => 🚆, railway, train
 🚇 => 🚇, metro, subway
 🚈 => 🚈, light rail, railway
 🚉 => 🚉, railway, station, train
-🚊 => 🚊, tram, trolleybus
-🚝 => 🚝, monorail, vehicle
 🚞 => 🚞, car, mountain, railway
 🚋 => 🚋, car, tram, trolleybus
 🚌 => 🚌, bus
