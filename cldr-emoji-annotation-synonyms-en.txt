@@ -697,7 +697,7 @@
 🎆 => 🎆, celebration, fireworks
 🎇 => 🎇, celebration, fireworks, sparkle, sparkler
 ✨ => ✨, sparkle, sparkles, star
-🎈 => 🎈, balloon, celebration
+🎈 => 🎈, balloon, celebration, party
 🎉 => 🎉, celebration, party, popper, tada
 🎊 => 🎊, ball, celebration, confetti
 🎋 => 🎋, banner, celebration, Japanese, tanabata tree, tree
@@ -708,7 +708,7 @@
 🎁 => 🎁, gift, present
 🎗 => 🎗, celebration, reminder, ribbon
 🎟 => 🎟, admission, admission tickets, ticket
-🎫 => 🎫, admission, ticket
+🎫 => 🎫, ticket
 🎖 => 🎖, celebration, medal, military
 🏆 => 🏆, prize, trophy, world cup
 🏅 => 🏅, medal
