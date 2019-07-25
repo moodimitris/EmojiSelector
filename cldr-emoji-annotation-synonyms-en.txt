@@ -878,15 +878,12 @@
 ⚙ => ⚙, cog, cogwheel, gear, tool
 🗜 => 🗜, clamp, compress, tool, vice
 ⚖ => ⚖, balance, balance scale, justice, Libra, scales, tool, weight, zodiac
-🔗 => 🔗, link
-⛓ => ⛓, chain, chains
 ⚗ => ⚗, alembic, chemistry, tool
 🔬 => 🔬, microscope, science, tool
 🔭 => 🔭, science, telescope, tool
 📡 => 📡, antenna, dish, satellite
 💉 => 💉, doctor, medicine, needle, shot, sick, syringe, tool
 💊 => 💊, doctor, medicine, pill, sick
-🚪 => 🚪, door
 🛏 => 🛏, bed, hotel, sleep
 🛋 => 🛋, couch, couch and lamp, hotel, lamp
 🚽 => 🚽, toilet
