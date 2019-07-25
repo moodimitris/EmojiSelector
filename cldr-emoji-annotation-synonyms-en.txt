@@ -674,7 +674,7 @@
 ☃ => ☃, cold, snow, snowman
 ⛄ => ⛄, snow, snowman, winter
 ☄ => ☄, comet, space
-🔥 => 🔥, fire, flame, tool
+🔥 => 🔥, fire, flame, hot
 💧 => 💧, cold, comic, drop, droplet, sweat
 🌊 => 🌊, ocean, water, wave
 🎃 => 🎃, celebration, halloween, jack, jack-o-lantern, lantern
