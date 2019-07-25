@@ -777,8 +777,8 @@
 📽 => 📽, cinema, film, movie, projector, video
 🎬 => 🎬, clapper, clapper board, movie
 📺 => 📺, television, tv, video
-📷 => 📷, camera, video
-📹 => 📹, camera, video
+📷 => 📷, camera
+📹 => 📹, camera, videocamera
 📼 => 📼, tape, vhs, video, videocassette
 🔍 => 🔍, glass, magnifying, magnifying glass tilted left, search, tool
 🔎 => 🔎, glass, magnifying, magnifying glass tilted right, search, tool
