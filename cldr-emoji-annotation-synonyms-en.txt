@@ -778,7 +778,6 @@
 🎬 => 🎬, clapper, clapper board, movie
 📺 => 📺, television, tv, video
 📷 => 📷, camera, video
-📸 => 📸, camera, camera with flash, flash, video
 📹 => 📹, camera, video
 📼 => 📼, tape, vhs, video, videocassette
 🔍 => 🔍, glass, magnifying, magnifying glass tilted left, search, tool
