@@ -279,7 +279,7 @@
 🧣 => 🧣, neck, scarf
 🧤 => 🧤, gloves, hand
 🧥 => 🧥, coat, jacket
-🧦 => 🧦, socks, stocking
+🧦 => 🧦, socks
 👗 => 👗, clothing, dress
 👘 => 👘, clothing, kimono
 👙 => 👙, bikini, clothing, swim
