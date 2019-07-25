@@ -273,11 +273,6 @@
 💦 => 💦, comic, splashing, sweat, sweat droplets
 💨 => 💨, comic, dash, dashing away, running
 💫 => 💫, comic, dizzy, star
-💬 => 💬, balloon, bubble, comic, dialog, speech
-🗨 => 🗨, dialog, left speech bubble, speech
-🗯 => 🗯, angry, balloon, bubble, mad, right anger bubble
-💭 => 💭, balloon, bubble, comic, thought
-🕳 => 🕳, hole
 👓 => 👓, clothing, eye, eyeglasses, eyewear, glasses
 🕶 => 🕶, dark, eye, eyewear, glasses, sunglasses
 👔 => 👔, clothing, necktie, tie
@@ -741,9 +736,9 @@
 🖼 => 🖼, art, frame, framed picture, museum, painting, picture
 🎨 => 🎨, art, artist palette, museum, painting, palette
 🔇 => 🔇, mute, muted speaker, quiet, silent, speaker
-🔈 => 🔈, soft, speaker low volume
-🔉 => 🔉, medium, speaker medium volume
-🔊 => 🔊, loud, speaker high volume
+🔈 => 🔈, soft, speaker volume
+🔉 => 🔉, medium, speaker volume
+🔊 => 🔊, loud, speaker volume
 📢 => 📢, loud, loudspeaker, public address
 📣 => 📣, cheering, megaphone
 📯 => 📯, horn, post, postal
@@ -899,7 +894,6 @@
 🚩 => 🚩, post, triangular flag
 🎌 => 🎌, celebration, crossed flags, Japanese
 🏴 => 🏴, black flag, waving
-🏳 => 🏳, waving, white flag
 🏳‍🌈 => 🏳‍🌈, rainbow, rainbow flag
 👶🏻 => 👶🏻, baby, pampers, light skin tone
 👶🏼 => 👶🏼, baby, pampers, medium-light skin tone
