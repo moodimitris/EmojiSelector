@@ -747,12 +747,12 @@
 🎙 => 🎙, mic, microphone, music, studio
 🎤 => 🎤, karaoke, mic, microphone
 🎧 => 🎧, earbud, headphone
-📻 => 📻, radio, video
-🎷 => 🎷, instrument, music, sax, saxophone
+📻 => 📻, radio
+🎷 => 🎷, instrument, sax, saxophone
 🎸 => 🎸, guitar, instrument, music
 🎹 => 🎹, instrument, keyboard, music, musical keyboard, piano
-🎺 => 🎺, instrument, music, trumpet
-🎻 => 🎻, instrument, music, violin
+🎺 => 🎺, instrument, trumpet
+🎻 => 🎻, instrument, violin
 🥁 => 🥁, drum, drumsticks, music
 📱 => 📱, cell, mobile, phone, telephone
 📲 => 📲, arrow, call, cell, mobile, mobile phone with arrow, phone, receive, telephone
