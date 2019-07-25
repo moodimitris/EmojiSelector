@@ -735,7 +735,7 @@
 🔮 => 🔮, ball, crystal, fairy tale, fantasy, fortune, tool
 🎮 => 🎮, controller, game, video game
 🕹 => 🕹, game, joystick, video game
-🎰 => 🎰, game, slot, slot machine
+🎰 => 🎰, game, casino, slot machine
 🎲 => 🎲, dice, die, game
 🎭 => 🎭, art, mask, performing, performing arts, theater, theatre
 🖼 => 🖼, art, frame, framed picture, museum, painting, picture
