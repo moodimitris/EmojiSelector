@@ -119,7 +119,7 @@
 👩‍🔧 => 👩‍🔧, electrician, mechanic, plumber, tradesperson
 👨‍🏭 => 👨‍🏭, assembly, factory, industrial, worker
 👩‍🏭 => 👩‍🏭, assembly, factory, industrial, worker
-👨‍💼 => 👨‍💼, architect, business, manager
+👨‍💼 => 👨‍💼, architect, manager
 👩‍💼 => 👩‍💼, architect, manager
 👨‍🔬 => 👨‍🔬, biologist, chemist, engineer, man, mathematician, physicist, scientist
 👩‍🔬 => 👩‍🔬, biologist, chemist, engineer, mathematician, physicist, scientist, woman
