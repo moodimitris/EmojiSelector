@@ -850,10 +850,10 @@
 🗑 => 🗑, wastebasket
 🔒 => 🔒, closed, locked
 🔓 => 🔓, lock, open, unlock, unlocked
-🔏 => 🔏, ink, lock, locked with pen, nib, pen, privacy
-🔐 => 🔐, closed, key, lock, locked with key, secure
-🔑 => 🔑, key, lock, password
-🗝 => 🗝, clue, key, lock, old
+🔏 => 🔏, ink, lock, privacy
+🔐 => 🔐, closed, lock, secure
+🔑 => 🔑, key, password
+🗝 => 🗝, key, lock
 🔨 => 🔨, hammer, tool
 ⛏ => ⛏, mining, pick, tool
 ⚒ => ⚒, hammer, hammer and pick, pick, tool
