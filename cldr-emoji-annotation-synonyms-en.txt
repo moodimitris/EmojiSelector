@@ -135,7 +135,7 @@
 👩‍🚀 => 👩‍🚀, astronaut
 👨‍🚒 => 👨‍🚒, firefighter, firetruck
 👩‍🚒 => 👩‍🚒, firefighter, firetruck
-👮 => 👮, cop, officer, police
+👮 => 👮, cop, police
 🕵 => 🕵, detective, sleuth, spy
 💂 => 💂, guard
 👷 => 👷, construction, worker
@@ -1066,11 +1066,11 @@
 👩🏽‍🚒 => 👩🏽‍🚒, firefighter, firetruck, medium skin tone
 👩🏾‍🚒 => 👩🏾‍🚒, firefighter, firetruck, medium-dark skin tone
 👩🏿‍🚒 => 👩🏿‍🚒, firefighter, firetruck, dark skin tone
-👮🏻 => 👮🏻, cop, officer, police, light skin tone
-👮🏼 => 👮🏼, cop, officer, police, medium-light skin tone
-👮🏽 => 👮🏽, cop, officer, police, medium skin tone
-👮🏾 => 👮🏾, cop, officer, police, medium-dark skin tone
-👮🏿 => 👮🏿, cop, officer, police, dark skin tone
+👮🏻 => 👮🏻, cop, police, light skin tone
+👮🏼 => 👮🏼, cop, police, medium-light skin tone
+👮🏽 => 👮🏽, cop, police, medium skin tone
+👮🏾 => 👮🏾, cop, police, medium-dark skin tone
+👮🏿 => 👮🏿, cop, police, dark skin tone
 🕵🏻 => 🕵🏻, detective, sleuth, spy, light skin tone
 🕵🏼 => 🕵🏼, detective, sleuth, spy, medium-light skin tone
 🕵🏽 => 🕵🏽, detective, sleuth, spy, medium skin tone
