@@ -689,7 +689,7 @@
 🎎 => 🎎, celebration, doll, festival, Japanese, Japanese dolls
 🎏 => 🎏, carp, celebration, streamer
 🎀 => 🎀, celebration, ribbon
-🎁 => 🎁, gift, present, Christmas
+🎁 => 🎁, gift, present, Christmas, celebration
 🎗 => 🎗, celebration, reminder, ribbon
 🎟 => 🎟, admission, admission tickets, ticket
 🎫 => 🎫, ticket
