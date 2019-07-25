@@ -437,7 +437,7 @@
 🥔 => 🥔, food, potato, vegetable
 🥕 => 🥕, carrot, food, vegetable
 🌽 => 🌽, corn, ear, ear of corn, maize, maze
-🌶 => 🌶, hot, pepper
+🌶 => 🌶, pepper
 🥒 => 🥒, cucumber, food, pickle, vegetable
 🥦 => 🥦, broccoli, wild cabbage
 🍄 => 🍄, mushroom, toadstool
