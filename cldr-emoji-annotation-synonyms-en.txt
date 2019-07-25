@@ -586,7 +586,7 @@
 🚋 => 🚋, car, tram, trolleybus
 🚌 => 🚌, bus
 🚎 => 🚎, tram, trolley, trolleybus
-🚐 => 🚐, minibus
+🚐 => 🚐, minibus, road trip
 🚑 => 🚑, ambulance
 🚒 => 🚒, fire, truck
 🚓 => 🚓, patrol, police
