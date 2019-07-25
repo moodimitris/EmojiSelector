@@ -295,7 +295,7 @@
 👡 => 👡, sandal, shoe, woman, woman’s sandal
 👢 => 👢, boot, shoe, woman, woman’s boot
 👑 => 👑, crown, king, queen
-👒 => 👒, hat, woman, woman’s hat
+👒 => 👒, hat
 🎩 => 🎩, hat, tophat
 🎓 => 🎓, cap, graduation, hat
 🧢 => 🧢, baseball cap, billed cap
@@ -542,7 +542,7 @@
 🏣 => 🏣, Japanese, Japanese post office, post
 🏤 => 🏤, European, post, post office
 🏥 => 🏥, doctor, hospital, medicine
-🏦 => 🏦, bank, building
+🏦 => 🏦, building
 🏨 => 🏨, building, hotel
 🏩 => 🏩, hotel, love
 🏪 => 🏪, convenience, store
