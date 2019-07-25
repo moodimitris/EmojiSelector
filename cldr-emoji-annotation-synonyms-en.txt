@@ -393,11 +393,11 @@
 🐞 => 🐞, beetle, insect, lady beetle, ladybird, ladybug
 🦗 => 🦗, cricket, grasshopper
 🕷 => 🕷, insect, spider
-🕸 => 🕸, spider, web
+🕸 => 🕸, spider
 🦂 => 🦂, scorpio, Scorpio, scorpion, zodiac
 💐 => 💐, bouquet, flower
 🌸 => 🌸, blossom, cherry, flower
-💮 => 💮, flower, white flower
+💮 => 💮, flower
 🏵 => 🏵, plant, rosette
 🌹 => 🌹, flower, rose
 🥀 => 🥀, flower, wilted
