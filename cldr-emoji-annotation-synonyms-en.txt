@@ -1281,11 +1281,11 @@
 🚵🏽 => 🚵🏽, bicycle, bicyclist, bike, cyclist, mountain, person mountain biking, medium skin tone
 🚵🏾 => 🚵🏾, bicycle, bicyclist, bike, cyclist, mountain, person mountain biking, medium-dark skin tone
 🚵🏿 => 🚵🏿, bicycle, bicyclist, bike, cyclist, mountain, person mountain biking, dark skin tone
-🤸🏻 => 🤸🏻, cartwheel, gymnastics, person cartwheeling, light skin tone
-🤸🏼 => 🤸🏼, cartwheel, gymnastics, person cartwheeling, medium-light skin tone
-🤸🏽 => 🤸🏽, cartwheel, gymnastics, person cartwheeling, medium skin tone
-🤸🏾 => 🤸🏾, cartwheel, gymnastics, person cartwheeling, medium-dark skin tone
-🤸🏿 => 🤸🏿, cartwheel, gymnastics, person cartwheeling, dark skin tone
+🤸🏻 => 🤸🏻, cartwheel, gymnastics, personal training, light skin tone
+🤸🏼 => 🤸🏼, cartwheel, gymnastics, personal training, medium-light skin tone
+🤸🏽 => 🤸🏽, cartwheel, gymnastics, personal training, medium skin tone
+🤸🏾 => 🤸🏾, cartwheel, gymnastics, personal training, medium-dark skin tone
+🤸🏿 => 🤸🏿, cartwheel, gymnastics, personal training, dark skin tone
 🤽🏻 => 🤽🏻, person playing polo, polo, light skin tone
 🤽🏼 => 🤽🏼, person playing polo, polo, medium-light skin tone
 🤽🏽 => 🤽🏽, person playing polo, polo, medium skin tone
