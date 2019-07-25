@@ -803,9 +803,7 @@
 📚 => 📚, book, books
 📓 => 📓, notebook
 📒 => 📒, ledger, notebook
-📃 => 📃, curl, document, page, page with curl
 📜 => 📜, paper, scroll
-📄 => 📄, document, page, page facing up
 📰 => 📰, news, newspaper, paper
 🗞 => 🗞, news, newspaper, paper, rolled, rolled-up newspaper
 📑 => 📑, bookmark, mark, marker, tabs
