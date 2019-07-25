@@ -644,11 +644,11 @@
 ⏲ => ⏲, clock, timer
 🌑 => 🌑, dark, moon
 🌒 => 🌒, crescent, moon, waxing
-🌓 => 🌓, first quarter moon, moon
+🌓 => 🌓, quarter moon, moon
 🌔 => 🌔, gibbous, moon, waxing
 🌕 => 🌕, moon
 🌖 => 🌖, gibbous, moon, waning
-🌗 => 🌗, last quarter moon, moon
+🌗 => 🌗, quarter moon, moon
 🌘 => 🌘, crescent, moon, waning
 🌙 => 🌙, crescent, moon
 🌡 => 🌡, thermometer, weather
