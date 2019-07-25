@@ -490,8 +490,8 @@
 🍨 => 🍨, cream, dessert, ice, sweet
 🍩 => 🍩, dessert, donut, doughnut, sweet
 🍪 => 🍪, cookie, dessert, sweet
-🎂 => 🎂, birthday, cake, celebration, dessert, pastry, sweet
-🍰 => 🍰, cake, dessert, pastry, shortcake, slice, sweet
+🎂 => 🎂, birthday, cake, celebration, dessert, pastry
+🍰 => 🍰, cake, dessert, pastry, shortcake
 🥧 => 🥧, filling, pastry, pie
 🍫 => 🍫, bar, chocolate, dessert, sweet
 🍬 => 🍬, candy, dessert, sweet
