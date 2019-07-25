@@ -569,7 +569,7 @@
 🌆 => 🌆, city, cityscape at dusk, dusk, evening, landscape, sun, sunset
 🌇 => 🌇, dusk, sun, sunset
 🌉 => 🌉, bridge, bridge at night, night
-♨ => ♨, hot, hotsprings, springs, steaming
+♨ => ♨, hotsprings, springs, steaming
 🌌 => 🌌, milky way, space
 🎠 => 🎠, carousel, horse
 🎡 => 🎡, amusement park, ferris, wheel
