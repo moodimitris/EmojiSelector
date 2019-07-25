@@ -788,8 +788,8 @@
 🔦 => 🔦, electric, flashlight, light, tool, torch
 🏮 => 🏮, bar, lantern, light, red, red paper lantern
 📔 => 📔, book, cover, decorated, notebook, notebook with decorative cover
-📕 => 📕, book, closed
-📖 => 📖, book, open
+📕 => 📕, book
+📖 => 📖, book
 📗 => 📗, book, green
 📘 => 📘, blue, book
 📙 => 📙, book, orange
