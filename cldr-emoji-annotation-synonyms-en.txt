@@ -211,7 +211,7 @@
 👆 => 👆, backhand, backhand index pointing up, finger, hand, index, point, up
 👇 => 👇, backhand, backhand index pointing down, down, finger, hand, index, point
 ✌ => ✌, hand, v, victory
-🤞 => 🤞, cross, crossed fingers, finger, hand, luck
+🤞 => 🤞, cross, crossed fingers, finger
 🖖 => 🖖, finger, hand, spock, vulcan, vulcan salute
 🤘 => 🤘, finger, hand, horns, rock-on, sign of the horns
 🤙 => 🤙, call, call me hand, hand
