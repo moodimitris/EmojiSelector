@@ -498,7 +498,7 @@
 🍮 => 🍮, custard, dessert, pudding, sweet
 🍼 => 🍼, baby, bottle, milk
 🥛 => 🥛, drink, glass, glass of milk, milk
-☕ => ☕, espresso, nespresso, coffee, drink, hot, steaming, tea
+☕ => ☕, espresso, nespresso, coffee, tea
 🍵 => 🍵, beverage, tea, teacup, teacup without handle
 🍶 => 🍶, bar, beverage, bottle, sake
 🍾 => 🍾, bar, bottle, bottle with popping cork, cork, drink, popping
