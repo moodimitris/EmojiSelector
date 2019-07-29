@@ -225,7 +225,7 @@
 👏 => 👏, clap, clapping hands, hand
 👐 => 👐, hand, open, open hands
 🙌 => 🙌, celebration, gesture, hand, hooray, raised, raising hands
-🤲 => 🤲, palms up together, prayer
+🤲 => 🤲, prayer
 🙏 => 🙏, ask, bow, folded, folded hands, gesture, hand, please, pray, thanks
 🤝 => 🤝, agreement, hand, handshake, meeting, shake
 💅 => 💅, care, cosmetics, manicure, nail, polish
