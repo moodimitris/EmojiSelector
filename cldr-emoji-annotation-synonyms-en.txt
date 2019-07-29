@@ -874,7 +874,6 @@
 🚩 => 🚩, post, triangular flag
 🎌 => 🎌, celebration, crossed flags, Japanese
 🏴 => 🏴, black flag, waving
-🏳‍🌈 => 🏳‍🌈, rainbow, rainbow flag
 👶🏻 => 👶🏻, baby, pampers, light skin tone
 👶🏼 => 👶🏼, baby, pampers, medium-light skin tone
 👶🏽 => 👶🏽, baby, pampers, medium skin tone
