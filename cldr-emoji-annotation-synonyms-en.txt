@@ -214,7 +214,7 @@
 👊 => 👊, clenched, fist, hand, oncoming fist, punch
 🤛 => 🤛, fist, left-facing fist, leftwards
 🤜 => 🤜, fist, right-facing fist, rightwards
-🤚 => 🤚, backhand, raised, raised back of hand
+🤚 => 🤚, backhand
 👋 => 👋, hand, wave, waving
 🤟 => 🤟, hand, ILY, love-you gesture
 ✍ => ✍, hand, write, writing hand
