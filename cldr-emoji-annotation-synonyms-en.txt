@@ -658,7 +658,6 @@
 ⛱ => ⛱, rain, sun, umbrella, umbrella on ground, sand
 ⚡ => ⚡, danger, electric, electricity, high voltage, lightning, voltage, zap
 ❄ => ❄, cold, snow, snowflake
-☃ => ☃, cold, snow, snowman
 ⛄ => ⛄, snow, snowman, winter
 ☄ => ☄, comet, space
 🔥 => 🔥, fire, flame, hot
