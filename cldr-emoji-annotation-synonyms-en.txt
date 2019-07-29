@@ -666,7 +666,7 @@
 ⛄ => ⛄, snow, snowman, winter
 ☄ => ☄, comet, space
 🔥 => 🔥, fire, flame, hot
-💧 => 💧, cold, comic, drop, droplet, sweat
+💧 => 💧, droplet, sweat
 🌊 => 🌊, ocean, water, wave
 🎃 => 🎃, celebration, halloween, jack, jack-o-lantern, lantern
 🎄 => 🎄, celebration, Christmas, tree
