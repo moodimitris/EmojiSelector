@@ -720,7 +720,7 @@
 🖼 => 🖼, art, frame, framed picture, museum, painting, picture
 🎨 => 🎨, art, artist palette, museum, painting, palette
 🔇 => 🔇, mute, muted speaker, quiet, silent, speaker
-🔈 => 🔈, soft, speaker volume
+🔈 => 🔈, audio, speaker volume
 🔉 => 🔉, medium, speaker volume
 🔊 => 🔊, loud, speaker volume
 📢 => 📢, loud, loudspeaker, public address
