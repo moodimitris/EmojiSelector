@@ -791,9 +791,6 @@
 📜 => 📜, paper, scroll
 📰 => 📰, news, newspaper, paper
 🗞 => 🗞, news, newspaper, paper, rolled, rolled-up newspaper
-📑 => 📑, bookmark, mark, marker, tabs
-🔖 => 🔖, bookmark, mark
-🏷 => 🏷, label
 💰 => 💰, bag, dollar, money, moneybag
 💴 => 💴, bank, banknote, bill, currency, money, note, yen
 💵 => 💵, bank, banknote, bill, currency, dollar, money, note
