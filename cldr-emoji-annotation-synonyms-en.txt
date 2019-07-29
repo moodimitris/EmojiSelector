@@ -569,7 +569,7 @@
 🎢 => 🎢, amusement park, coaster, roller
 💈 => 💈, barber, haircut, pole
 🎪 => 🎪, circus, tent
-🚂 => 🚂, engine, locomotive, railway, steam, train
+🚂 => 🚂, locomotive, railway, train
 🚃 => 🚃, car, electric, railway, train, tram, trolleybus
 🚄 => 🚄, high-speed train, railway, shinkansen, speed, train
 🚆 => 🚆, railway, train
