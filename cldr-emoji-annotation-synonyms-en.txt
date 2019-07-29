@@ -163,8 +163,8 @@
 🧟 => 🧟, undead, walking dead, zombie
 🚶 => 🚶, hike, person walking, walk, walking
 🏃 => 🏃, marathon, person running, running
-💃 => 💃, dancing, woman
-🕺 => 🕺, dance, man, man dancing
+💃 => 💃, dancing
+🕺 => 🕺, dance, dancing
 👯 => 👯, bunny ear, dancer, partying, people with bunny ears
 🧖 => 🧖, person in steamy room, sauna, steam room
 🧗 => 🧗, climber, person climbing
@@ -187,9 +187,9 @@
 🚵‍♀ => 🚵‍♀, bicycle, bike, biking, cyclist, mountain
 🏎 => 🏎, car, racing
 🏍 => 🏍, motorcycle, racing
-👫 => 👫, couple, hand, hold, man, man and woman holding hands, woman
-👬 => 👬, couple, Gemini, hand, hold, man, twins, two men holding hands, zodiac
-👭 => 👭, couple, hand, hold, two women holding hands, woman
+👫 => 👫, couple
+👬 => 👬, couple
+👭 => 👭, couple
 💏 => 💏, couple, kiss
 💑 => 💑, couple, couple with heart, love
 👪 => 👪, family
