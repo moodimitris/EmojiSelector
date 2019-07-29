@@ -191,9 +191,6 @@
 🚵‍♀ => 🚵‍♀, bicycle, bike, biking, cyclist, mountain
 🏎 => 🏎, car, racing
 🏍 => 🏍, motorcycle, racing
-🤼 => 🤼, people wrestling, wrestle, wrestler
-🤼‍♂ => 🤼‍♂, wrestling, wrestle
-🤼‍♀ => 🤼‍♀, wrestling, wrestle
 👫 => 👫, couple, hand, hold, man, man and woman holding hands, woman
 👬 => 👬, couple, Gemini, hand, hold, man, twins, two men holding hands, zodiac
 👭 => 👭, couple, hand, hold, two women holding hands, woman
