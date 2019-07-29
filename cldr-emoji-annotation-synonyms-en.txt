@@ -197,7 +197,7 @@
 💏 => 💏, couple, kiss
 💑 => 💑, couple, couple with heart, love
 👪 => 👪, family
-🤳 => 🤳, camera, phone, selfie
+🤳 => 🤳, selfie
 💪 => 💪, biceps, comic, flex, flexed biceps, muscle
 👈 => 👈, backhand, backhand index pointing left, finger, hand, index, point
 👉 => 👉, backhand, backhand index pointing right, finger, hand, index, point
