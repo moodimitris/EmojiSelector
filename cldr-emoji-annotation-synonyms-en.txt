@@ -121,8 +121,8 @@
 👩‍🏭 => 👩‍🏭, assembly, factory, industrial, worker
 👨‍💼 => 👨‍💼, architect, manager
 👩‍💼 => 👩‍💼, architect, manager
-👨‍🔬 => 👨‍🔬, biologist, chemist, engineer, man, mathematician, physicist, scientist
-👩‍🔬 => 👩‍🔬, biologist, chemist, engineer, mathematician, physicist, scientist, woman
+👨‍🔬 => 👨‍🔬, biologist, chemist, physicist, scientist
+👩‍🔬 => 👩‍🔬, biologist, chemist, physicist, scientist
 👨‍💻 => 👨‍💻, coder, developer, software
 👩‍💻 => 👩‍💻, coder, developer, software
 👨‍🎤 => 👨‍🎤, actor, entertainer, rock, singer
