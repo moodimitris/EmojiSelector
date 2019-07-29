@@ -355,10 +355,10 @@
 🐔 => 🐔, bird, chicken
 🐓 => 🐓, bird, rooster
 🐣 => 🐣, baby, bird, chick, hatching
-🐤 => 🐤, baby, bird, chick
-🐥 => 🐥, baby, bird, chick, front-facing baby chick
+🐤 => 🐤, bird
+🐥 => 🐥, bird
 🐦 => 🐦, bird
-🐧 => 🐧, bird, penguin
+🐧 => 🐧, penguin
 🕊 => 🕊, bird, dove, fly, peace
 🦅 => 🦅, bird, eagle
 🦆 => 🦆, bird, duck
