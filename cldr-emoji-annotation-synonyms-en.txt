@@ -180,9 +180,6 @@
 🏌 => 🏌, golf, person golfing
 🏌‍♂ => 🏌‍♂, golf, man golfing
 🏌‍♀ => 🏌‍♀, golf, woman golfing
-⛹ => ⛹, person bouncing ball
-⛹‍♂ => ⛹‍♂, man bouncing ball
-⛹‍♀ => ⛹‍♀, woman bouncing ball
 🏋 => 🏋, lifter, person lifting weights, weight
 🏋‍♂ => 🏋‍♂, weight lifter
 🏋‍♀ => 🏋‍♀, weight lifter
