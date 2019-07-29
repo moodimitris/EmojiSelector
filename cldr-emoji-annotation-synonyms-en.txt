@@ -168,9 +168,9 @@
 👯 => 👯, bunny ear, dancer, partying, people with bunny ears
 🧖 => 🧖, person in steamy room, sauna, steam room
 🧗 => 🧗, climber, person climbing
-🛀 => 🛀, bath, bathtub, person taking bath
-🛌 => 🛌, hotel, person in bed, sleep
-🕴 => 🕴, business, man, man in suit levitating, suit
+🛀 => 🛀, bath, bathtub
+🛌 => 🛌, hotel, sleep
+🕴 => 🕴, business, suit
 🗣 => 🗣, face, silhouette, speak, speaking
 👤 => 👤, bust, bust in silhouette, silhouette
 👥 => 👥, bust, busts in silhouette, silhouette
