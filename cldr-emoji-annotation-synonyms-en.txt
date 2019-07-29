@@ -170,10 +170,6 @@
 🧗 => 🧗, climber, person climbing
 🛀 => 🛀, bath, bathtub
 🛌 => 🛌, hotel, sleep
-🕴 => 🕴, business, suit
-🗣 => 🗣, face, silhouette, speak, speaking
-👤 => 👤, bust, bust in silhouette, silhouette
-👥 => 👥, bust, busts in silhouette, silhouette
 🤺 => 🤺, fencer, fencing, person fencing, sword
 🏇 => 🏇, horse, jockey, racehorse, racing
 ⛷ => ⛷, ski, skier, snow
