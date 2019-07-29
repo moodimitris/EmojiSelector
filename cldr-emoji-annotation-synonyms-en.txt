@@ -593,7 +593,6 @@
 🚲 => 🚲, bicycle, bike
 🛴 => 🛴, kick, scooter
 🛵 => 🛵, motor, scooter
-🚏 => 🚏, bus, busstop, stop
 🛣 => 🛣, highway, motorway, road
 🛤 => 🛤, railway, railway track, train
 🛢 => 🛢, drum, oil
