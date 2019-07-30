@@ -800,12 +800,11 @@
 📤 => 📤, box, letter, mail, outbox, sent, tray
 📥 => 📥, box, inbox, letter, mail, receive, tray
 📦 => 📦, box, package, parcel
-📫 => 📫, closed, closed mailbox with raised flag, mail, mailbox, postbox
-📪 => 📪, closed, closed mailbox with lowered flag, lowered, mail, mailbox, postbox
-📬 => 📬, mail, mailbox, open, open mailbox with raised flag, postbox
-📭 => 📭, lowered, mail, mailbox, open, open mailbox with lowered flag, postbox
-📮 => 📮, mail, mailbox, postbox
-🗳 => 🗳, ballot, ballot box with ballot, box
+📫 => 📫, mailbox, postbox
+📪 => 📪, mailbox, postbox
+📬 => 📬, mailbox, postbox
+📭 => 📭, mailbox, postbox
+🗳 => 🗳, ballot, ballot
 ✏ => ✏, pencil
 ✒ => ✒, black nib, nib, pen
 🖋 => 🖋, fountain, pen
