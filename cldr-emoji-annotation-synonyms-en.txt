@@ -279,10 +279,10 @@
 🛍 => 🛍, bag, hotel, shopping, shopping bags
 🎒 => 🎒, backpack, bag, rucksack, satchel, school
 👞 => 👞, man’s shoe, shoe
-👟 => 👟, athletic, running shoe, shoe, sneaker
+👟 => 👟, athletic, running shoe, sneaker
 👠 => 👠, heel, high-heeled shoe, shoe, woman
-👡 => 👡, sandal, shoe, woman, woman’s sandal
-👢 => 👢, boot, shoe, woman, woman’s boot
+👡 => 👡, sandal
+👢 => 👢, boot
 👑 => 👑, crown, king, queen
 👒 => 👒, hat
 🎩 => 🎩, hat, tophat
