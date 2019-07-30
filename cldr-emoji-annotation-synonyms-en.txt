@@ -848,9 +848,6 @@
 🛡 => 🛡, shield, weapon
 🔧 => 🔧, spanner, tool, wrench
 🔩 => 🔩, bolt, nut, nut and bolt, tool
-⚙ => ⚙, cog, cogwheel, gear, tool
-🗜 => 🗜, clamp, compress, tool, vice
-⚖ => ⚖, balance, balance scale, justice, Libra, scales, tool, weight, zodiac
 ⚗ => ⚗, alembic, chemistry, tool
 🔬 => 🔬, microscope, science, tool
 🔭 => 🔭, science, telescope, tool
