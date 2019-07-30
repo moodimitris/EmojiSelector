@@ -398,7 +398,7 @@
 🌾 => 🌾, ear, grain, rice, sheaf of rice
 🌿 => 🌿, herb, leaf
 ☘ => ☘, plant, shamrock
-🍀 => 🍀, 4, clover, four, four-leaf clover, leaf
+🍀 => 🍀, clover, four-leaf clover
 🍁 => 🍁, falling, autumn, maple
 🍂 => 🍂, fallen leaf, falling, leaf, autumn
 🍇 => 🍇, grape, grapes
@@ -426,7 +426,7 @@
 🥒 => 🥒, cucumber, pickle
 🥦 => 🥦, broccoli
 🍄 => 🍄, mushroom, toadstool
-🥜 => 🥜, food, nut, peanut, peanuts, vegetable
+🥜 => 🥜, nut, peanut, peanuts
 🌰 => 🌰, chestnut, plant
 🍞 => 🍞, bread, loaf
 🥐 => 🥐, bread, crescent roll, croissant, food, french
@@ -441,8 +441,8 @@
 🍔 => 🍔, burger, hamburger
 🍟 => 🍟, french, fries
 🍕 => 🍕, pizza
-🌭 => 🌭, hot dog, hotdog, sausage
-🥪 => 🥪, bread, sandwich
+🌭 => 🌭, hotdog, sausage
+🥪 => 🥪, sandwich
 🌮 => 🌮, taco
 🌯 => 🌯, burrito
 🥙 => 🥙, falafel, flatbread, food, gyro, kebab, stuffed
@@ -450,7 +450,7 @@
 🍳 => 🍳, cooking, egg, frying, pan
 🥘 => 🥘, casserole, paella
 🍲 => 🍲, pot, stew
-🥣 => 🥣, bowl with spoon, cereal, congee
+🥣 => 🥣, cereal, congee
 🥗 => 🥗, salad
 🍿 => 🍿, popcorn
 🥫 => 🥫, can
