@@ -404,7 +404,6 @@
 🍀 => 🍀, 4, clover, four, four-leaf clover, leaf
 🍁 => 🍁, falling, autumn, maple
 🍂 => 🍂, fallen leaf, falling, leaf, autumn
-🍃 => 🍃, blow, flutter, leaf, leaf fluttering in wind, wind
 🍇 => 🍇, fruit, grape, grapes
 🍈 => 🍈, fruit, melon
 🍉 => 🍉, fruit, watermelon
@@ -412,11 +411,11 @@
 🍋 => 🍋, citrus, fruit, lemon
 🍌 => 🍌, banana, fruit
 🍍 => 🍍, fruit, pineapple
-🍎 => 🍎, apple, fruit, red
-🍏 => 🍏, apple, fruit, green
+🍎 => 🍎, apple, fruit
+🍏 => 🍏, apple, fruit
 🍐 => 🍐, fruit, pear
 🍑 => 🍑, fruit, peach
-🍒 => 🍒, berries, cherries, cherry, fruit, red
+🍒 => 🍒, berries, cherries, cherry, fruit
 🍓 => 🍓, berry, fruit, strawberry
 🥝 => 🥝, food, fruit, kiwi
 🍅 => 🍅, fruit, tomato, vegetable
