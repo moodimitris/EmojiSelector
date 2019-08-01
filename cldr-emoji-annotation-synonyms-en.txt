@@ -481,7 +481,7 @@
 🏝 => 🏝, desert, island
 🏞 => 🏞, national park, park
 🏟 => 🏟, stadium
-🏛 => 🏛, classical, classical building
+🏛 => 🏛, acropolis
 🏗 => 🏗, building construction, construction
 🏘 => 🏘, houses
 🏠 => 🏠, home, house
