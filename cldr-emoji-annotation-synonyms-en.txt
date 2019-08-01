@@ -58,8 +58,8 @@
 😩 => 😩, tired, weary
 🤯 => 🤯, exploding, shocked
 😬 => 😬, grimace
-😰 => 😰, anxious face with sweat, blue, cold, face, mouth, open, rushed, sweat
-😱 => 😱, face, face screaming in fear, fear, fearful, munch, scared, scream
+😰 => 😰, rushed
+😱 => 😱,fear, fearful, munch, scared, scream
 😳 => 😳, dazed, face, flushed
 🤪 => 🤪, eye, goofy, zany
 😵 => 😵, dizzy
@@ -76,7 +76,7 @@
 🤠 => 🤠, cowboy, cowgirl
 🤡 => 🤡, clown
 🤥 => 🤥, pinocchio
-🤫 => 🤫, quiet, shush, shushing face
+🤫 => 🤫, quiet, shush
 🤭 => 🤭, whoops
 🧐 => 🧐, stuffy
 🤓 => 🤓, geek, nerd
@@ -192,7 +192,6 @@
 ✌ => ✌, hand, v, victory
 🤞 => 🤞, cross, crossed fingers, finger
 🤘 => 🤘, finger, hand, horns, rock-on, sign of the horns
-🤙 => 🤙, call, call me hand, hand
 👌 => 👌, hand, OK
 👍 => 👍, +1, hand, thumb, thumbs up, up
 👎 => 👎, -1, down, hand, thumb, thumbs down
@@ -226,11 +225,8 @@
 ❣ => ❣, exclamation, heavy heart exclamation, mark, punctuation
 💌 => 💌, heart, letter, love, mail
 💤 => 💤, comic, sleep, zzz
-💣 => 💣, bomb, comic
-💥 => 💥, boom, collision, comic
+💣 => 💣, bomb
 💦 => 💦, comic, splashing, sweat, sweat droplets
-💨 => 💨, comic, dash, dashing away, running
-💫 => 💫, comic, dizzy, star
 👓 => 👓, clothing, eye, eyeglasses, eyewear, glasses
 👔 => 👔, clothing, necktie, tie
 👕 => 👕, clothing, shirt, t-shirt, tshirt
@@ -357,7 +353,6 @@
 💐 => 💐, bouquet, flower
 🌸 => 🌸, blossom, cherry, flower
 💮 => 💮, flower
-🏵 => 🏵, plant, rosette
 🌹 => 🌹, flower, rose
 🥀 => 🥀, flower, wilted
 🌺 => 🌺, flower, hibiscus
@@ -442,7 +437,6 @@
 🍡 => 🍡, dango, dessert, Japanese, skewer, stick, sweet
 🥟 => 🥟, dumpling, empanada, gyōza, jiaozi, pierogi, potsticker
 🥠 => 🥠, fortune cookie, prophecy
-🥡 => 🥡, oyster pail, takeout box
 🍦 => 🍦, ice, cream, icecream
 🍧 => 🍧, ice, cream, icecream
 🍨 => 🍨, ice, cream, icecream
@@ -510,16 +504,14 @@
 ⛪ => ⛪, Christian, church, cross, religion
 🕌 => 🕌, islam, mosque, Muslim, religion
 🕍 => 🕍, Jew, Jewish, religion, synagogue, temple
-⛩ => ⛩, religion, shinto, shrine
 🕋 => 🕋, islam, kaaba, Muslim, religion
 ⛲ => ⛲, fountain
 ⛺ => ⛺, camping, tent
 🌁 => 🌁, fog, foggy
 🌄 => 🌄, sunrise
 🌅 => 🌅, sunrise
-🌇 => 🌇, dusk, sun, sunset
-🌉 => 🌉, bridge, bridge at night, night
-♨ => ♨, hotsprings, springs, steaming
+🌇 => 🌇, dusk, sunset
+🌉 => 🌉, bridge
 🌌 => 🌌, milky way, space
 🎠 => 🎠, carousel
 🎡 => 🎡, amusement park
@@ -554,10 +546,10 @@
 🛤 => 🛤, railway, railway track, train
 🛢 => 🛢, drum, oil
 ⛽ => ⛽, diesel, fuel, fuelpump, gas, pump, station
-🚨 => 🚨, beacon, car, light, police, revolving
-🚥 => 🚥, horizontal traffic light, light, signal, traffic
-🚦 => 🚦, light, signal, traffic, vertical traffic light
-🛑 => 🛑, octagonal, sign, stop
+🚨 => 🚨, beacon, police, revolving
+🚥 => 🚥, traffic light
+🚦 => 🚦, traffic light
+🛑 => 🛑, stop
 🚧 => 🚧, barrier, construction
 ⚓ => ⚓, anchor, ship, tool
 ⛵ => ⛵, boat, sailboat, yacht
@@ -594,8 +586,6 @@
 🌘 => 🌘, moon
 🌙 => 🌙, moon
 🌡 => 🌡, thermometer, weather
-☀ => ☀, bright, rays, sun, sunny
-🌝 => 🌝, bright, face, full, moon
 🌞 => 🌞, bright, sun, summer
 ⭐ => ⭐, star
 🌟 => 🌟, glittery, glow, glowing star, shining, sparkle, star
@@ -679,7 +669,7 @@
 🎲 => 🎲, dice, die, game
 🎭 => 🎭, art, mask, performing, performing arts, theater, theatre
 🖼 => 🖼, art, frame, framed picture, museum, painting, picture
-🎨 => 🎨, art, artist palette, museum, painting, palette
+🎨 => 🎨, art, artist palette, painting, palette
 🔇 => 🔇, mute, muted speaker, quiet, silent, speaker
 🔈 => 🔈, audio, speaker volume
 🔉 => 🔉, medium, speaker volume
@@ -752,7 +742,6 @@
 💱 => 💱, bank, currency, exchange, money
 💲 => 💲, currency, dollar, heavy dollar sign, money
 📧 => 📧, e-mail, email, letter, mail
-📦 => 📦, box, package, parcel
 📫 => 📫, mailbox, postbox
 📪 => 📪, mailbox, postbox
 📬 => 📬, mailbox, postbox
@@ -1260,11 +1249,6 @@
 🤘🏽 => 🤘🏽, horns, rock-on, medium skin tone
 🤘🏾 => 🤘🏾, horns, rock-on, medium-dark skin tone
 🤘🏿 => 🤘🏿, horns, rock-on, dark skin tone
-🤙🏻 => 🤙🏻, call, light skin tone
-🤙🏼 => 🤙🏼, call, medium-light skin tone
-🤙🏽 => 🤙🏽, call, medium skin tone
-🤙🏾 => 🤙🏾, call, medium-dark skin tone
-🤙🏿 => 🤙🏿, call, dark skin tone
 👌🏻 => 👌🏻, OK, light skin tone
 👌🏼 => 👌🏼, OK, medium-light skin tone
 👌🏽 => 👌🏽, OK, medium skin tone
@@ -1315,8 +1299,3 @@
 🙏🏽 => 🙏🏽, ask, bow, folded, gesture, please, pray, thanks, medium skin tone
 🙏🏾 => 🙏🏾, ask, bow, folded, gesture, please, pray, thanks, medium-dark skin tone
 🙏🏿 => 🙏🏿, ask, bow, folded, gesture, please, pray, thanks, dark skin tone
-💅🏻 => 💅🏻, manicure, nail, polish, light skin tone
-💅🏼 => 💅🏼, manicure, nail, polish, medium-light skin tone
-💅🏽 => 💅🏽, manicure, nail, polish, medium skin tone
-💅🏾 => 💅🏾, manicure, nail, polish, medium-dark skin tone
-💅🏿 => 💅🏿, manicure, nail, polish, dark skin tone
