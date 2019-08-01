@@ -701,9 +701,9 @@
 📼 => 📼, tape, vhs, video, videocassette
 🔍 => 🔍, glass, magnifying, magnifying glass tilted left, search, tool
 🔎 => 🔎, glass, magnifying, magnifying glass tilted right, search, tool
-🕯 => 🕯, candle, light
-💡 => 💡, bulb, comic, electric, idea, light
-🔦 => 🔦, electric, flashlight, light, tool, torch
+🕯 => 🕯, candle
+💡 => 💡, bulb, electric, idea, light
+🔦 => 🔦, flashlight
 🏮 => 🏮, bar, lantern, light, red, red paper lantern
 📔 => 📔, book, decorated, notebook
 📕 => 📕, book
