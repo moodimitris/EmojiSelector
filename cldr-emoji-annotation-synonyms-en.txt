@@ -100,9 +100,6 @@
 🙀 => 🙀, cat, surprised, weary
 😿 => 😿, cat, sad
 😾 => 😾, cat, pouting
-🙈 => 🙈, evil, forbidden, gesture, monkey, no, not, prohibited, see-no-evil monkey
-🙉 => 🙉, evil, forbidden, gesture, hear-no-evil monkey, monkey, no, not, prohibited
-🙊 => 🙊, evil, forbidden, gesture, monkey, no, not, prohibited, speak-no-evil monkey
 👨‍⚕ => 👨‍⚕, doctor, healthcare, nurse, therapist
 👩‍⚕ => 👩‍⚕, doctor, healthcare, nurse, therapist
 👨‍🎓 => 👨‍🎓, graduate, student
@@ -469,7 +466,6 @@
 🏞 => 🏞, national park, park
 🏟 => 🏟, stadium
 🏛 => 🏛, acropolis
-🏗 => 🏗, building construction, construction
 🏘 => 🏘, houses
 🏠 => 🏠, home, house
 🏡 => 🏡, garden, home, house, house with garden
@@ -478,12 +474,11 @@
 🏤 => 🏤, European, post, post office
 🏥 => 🏥, doctor, hospital, medicine
 🏨 => 🏨, hotel
-🏩 => 🏩, hotel, love
+🏩 => 🏩, hotel
 🏪 => 🏪, convenience, store
 🏫 => 🏫, school
 🏬 => 🏬, department, store
 🏭 => 🏭, factory
-🏯 => 🏯, castle
 🏰 => 🏰, castle
 💒 => 💒, chapel
 🗼 => 🗼, Tokyo, tower
