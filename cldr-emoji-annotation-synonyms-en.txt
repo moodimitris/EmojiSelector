@@ -750,11 +750,7 @@
 📰 => 📰, news, newspaper
 🗞 => 🗞, newspaper, rolled, rolled-up newspaper
 💰 => 💰, bag, dollar, money, moneybag
-💴 => 💴, bank, banknote, bill, currency, money, note, yen
-💵 => 💵, bank, banknote, bill, currency, dollar, money, note
-💶 => 💶, bank, banknote, bill, currency, euro, money, note
-💷 => 💷, bank, banknote, bill, currency, money, note, pound
-💸 => 💸, bank, banknote, bill, dollar, fly, money, money with wings, note, wings
+💸 => 💸, bank, banknote, bill, dollar, money
 💳 => 💳, bank, card, credit, money
 💹 => 💹, bank, chart, chart increasing with yen, currency, graph, growth, market, money, rise, trend, upward, yen
 💱 => 💱, bank, currency, exchange, money
