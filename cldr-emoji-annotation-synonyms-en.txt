@@ -518,7 +518,6 @@
 ⛲ => ⛲, fountain
 ⛺ => ⛺, camping, tent
 🌁 => 🌁, fog, foggy
-🌃 => 🌃, night, night with stars, star
 🌄 => 🌄, sunrise
 🌅 => 🌅, sunrise
 🌇 => 🌇, dusk, sun, sunset
