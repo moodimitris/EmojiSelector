@@ -933,16 +933,6 @@
 👩🏽‍💻 => 👩🏽‍💻, coder, developer, inventor, software, technologist, medium skin tone
 👩🏾‍💻 => 👩🏾‍💻, coder, developer, inventor, software, technologist, medium-dark skin tone
 👩🏿‍💻 => 👩🏿‍💻, coder, developer, inventor, software, technologist, dark skin tone
-👨🏻‍🎤 => 👨🏻‍🎤, actor, entertainer, rock, singer, star, light skin tone
-👨🏼‍🎤 => 👨🏼‍🎤, actor, entertainer, rock, singer, star, medium-light skin tone
-👨🏽‍🎤 => 👨🏽‍🎤, actor, entertainer, rock, singer, star, medium skin tone
-👨🏾‍🎤 => 👨🏾‍🎤, actor, entertainer, rock, singer, star, medium-dark skin tone
-👨🏿‍🎤 => 👨🏿‍🎤, actor, entertainer, rock, singer, star, dark skin tone
-👩🏻‍🎤 => 👩🏻‍🎤, actor, entertainer, rock, singer, star, light skin tone
-👩🏼‍🎤 => 👩🏼‍🎤, actor, entertainer, rock, singer, star, medium-light skin tone
-👩🏽‍🎤 => 👩🏽‍🎤, actor, entertainer, rock, singer, star, medium skin tone
-👩🏾‍🎤 => 👩🏾‍🎤, actor, entertainer, rock, singer, star, medium-dark skin tone
-👩🏿‍🎤 => 👩🏿‍🎤, actor, entertainer, rock, singer, star, dark skin tone
 👨🏻‍🎨 => 👨🏻‍🎨, artist, palette, light skin tone
 👨🏼‍🎨 => 👨🏼‍🎨, artist, palette, medium-light skin tone
 👨🏽‍🎨 => 👨🏽‍🎨, artist, palette, medium skin tone
