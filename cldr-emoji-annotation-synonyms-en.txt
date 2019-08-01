@@ -406,7 +406,6 @@
 🥗 => 🥗, salad
 🍿 => 🍿, popcorn
 🥫 => 🥫, can
-🍱 => 🍱, bento
 🍘 => 🍘, cracker, rice
 🍙 => 🍙, rice
 🍚 => 🍚, rice
