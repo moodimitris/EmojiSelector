@@ -479,9 +479,6 @@
 🌏 => 🌏, Asia, Australia, earth, globe, globe showing Asia-Australia
 🌐 => 🌐, earth, globe, globe with meridians, meridians
 🗺 => 🗺, map
-🗾 => 🗾, Japan, map, map of Japan
-🏔 => 🏔, cold, mountain, snow, snow-capped mountain
-⛰ => ⛰, mountain
 🌋 => 🌋, eruption, mountain, volcano
 🗻 => 🗻, fuji, mount fuji, mountain
 🏕 => 🏕, camping
