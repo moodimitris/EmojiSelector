@@ -1203,11 +1203,6 @@
 👊🏽 => 👊🏽, clenched, fist, punch, medium skin tone
 👊🏾 => 👊🏾, clenched, fist, punch, medium-dark skin tone
 👊🏿 => 👊🏿, clenched, fist, punch, dark skin tone
-👋🏻 => 👋🏻, waving, light skin tone
-👋🏼 => 👋🏼, waving, medium-light skin tone
-👋🏽 => 👋🏽, waving, medium skin tone
-👋🏾 => 👋🏾, waving, medium-dark skin tone
-👋🏿 => 👋🏿, waving, dark skin tone
 👏🏻 => 👏🏻, clap, light skin tone
 👏🏼 => 👏🏼, clap, medium-light skin tone
 👏🏽 => 👏🏽, clap, medium skin tone
