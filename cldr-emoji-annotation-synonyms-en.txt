@@ -122,8 +122,6 @@
 👩‍🔬 => 👩‍🔬, biologist, chemist, physicist, scientist
 👨‍💻 => 👨‍💻, coder, developer, software
 👩‍💻 => 👩‍💻, coder, developer, software
-👨‍🎤 => 👨‍🎤, actor, entertainer, rock, singer
-👩‍🎤 => 👩‍🎤, actor, entertainer, rock, singer
 👨‍🎨 => 👨‍🎨, artist
 👩‍🎨 => 👩‍🎨, artist
 👨‍✈ => 👨‍✈, pilot
