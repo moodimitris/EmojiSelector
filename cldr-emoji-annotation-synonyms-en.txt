@@ -169,17 +169,10 @@
 💑 => 💑, couple, couple with heart, love
 👪 => 👪, family
 💪 => 💪, biceps, comic, flex, flexed biceps, muscle
-👈 => 👈, backhand, backhand index pointing left, finger, hand, index, point
-👉 => 👉, backhand, backhand index pointing right, finger, hand, index, point
-☝ => ☝, finger, hand, index, index pointing up, point, up
-👆 => 👆, backhand, backhand index pointing up, finger, hand, index, point, up
-👇 => 👇, backhand, backhand index pointing down, down, finger, hand, index, point
 ✌ => ✌, hand, v, victory
 🤞 => 🤞, cross, crossed fingers, finger
 🤘 => 🤘, finger, hand, horns, rock-on, sign of the horns
 👌 => 👌, hand, OK
-👍 => 👍, +1, hand, thumb, thumbs up, up
-👎 => 👎, -1, down, hand, thumb, thumbs down
 👊 => 👊, clenched, fist, hand, oncoming fist, punch
 👏 => 👏, clap, clapping hands, hand
 🙏 => 🙏, ask, bow, folded, folded hands, gesture, hand, please, pray, thanks
